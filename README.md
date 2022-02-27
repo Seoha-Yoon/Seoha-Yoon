@@ -1,4 +1,4 @@
-# Hi! I'm Seoha :blush:
+# Hi! I'm Seoha :blush: 
 [Notion](https://buttery-adapter-bbd.notion.site/c615a14a9e304e11abdd5ada09ee80ff) 
 
 ## Tech Stack  
