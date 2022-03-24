@@ -1,5 +1,7 @@
-# Hi! I'm Seoha :blush: 
-[Notion](https://buttery-adapter-bbd.notion.site/c615a14a9e304e11abdd5ada09ee80ff) 
+# Hey, How you doin'? <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/>
+
+
+[윤서하_이력서](https://buttery-adapter-bbd.notion.site/c615a14a9e304e11abdd5ada09ee80ff) 
 
 ## Tech Stack  
 <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/></a>
@@ -10,9 +12,9 @@
 <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/></a>
 
 ## Github Stats
-![Seoha's GitHub stats](https://github-readme-stats.vercel.app/api?username=Seoha-Yoon&show_icons=true&theme=radical) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Seoha-Yoon&layout=compact)](https://github.com/Seoha-Yoon/github-readme-stats)  
+![Seoha's GitHub stats](https://github-readme-stats.vercel.app/api?username=Seoha-Yoon&show_icons=true&theme=swift) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Seoha-Yoon&layout=compact)](https://github.com/Seoha-Yoon/github-readme-stats)  
 
-![Visitor Count](https://profile-counter.glitch.me/Seoha-Yoon/count.svg)  
+![Visitor Count](https://profile-counter.glitch.me/Seoha-Yoon/count.svg)
   
 
 <!--
