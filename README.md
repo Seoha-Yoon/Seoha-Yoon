@@ -2,7 +2,7 @@
 
 ## Resume
 Korean - [이력서](https://buttery-adapter-bbd.notion.site/c615a14a9e304e11abdd5ada09ee80ff)  
-English - [Resume](), [CV](https://buttery-adapter-bbd.notion.site/Seoha-Yoon-fb9cc8960cc0484f9ff89445a6fc0875)
+English - [Resume](https://rift-cartwheel-e11.notion.site/5db8e67e634e4b8ab2c2b414cc2b588e), [CV](https://drive.google.com/file/d/12N-OG8AXBZlGl0E7nhp8d7EBh-8E3k_0/view?usp=sharing?raw=True)
 
 ## Tech Stack  
 <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/></a>
