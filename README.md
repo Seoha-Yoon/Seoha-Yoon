@@ -14,7 +14,7 @@ English - [Resume](https://rift-cartwheel-e11.notion.site/5db8e67e634e4b8ab2c2b4
 
 <br/>
 <details>
-<summary>🤖 <b> Some Statistics </b></summary>
+<summary>🤖 <b> Some Statistics </b></summary> 
   
   <img src="https://github-readme-stats.vercel.app/api?username=Seoha-Yoon&show_icons=true&theme=swift"/>
   <br/>
