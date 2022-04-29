@@ -1,4 +1,4 @@
-# Hey, How you doin'? <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> 
+# It's me, I'm seoha <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> 
 
 ## Resume
 Korean - [이력서](https://buttery-adapter-bbd.notion.site/c615a14a9e304e11abdd5ada09ee80ff)  
