@@ -8,14 +8,6 @@
 <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white"/></a>
 
 <br/>
-<details>
-<summary>🤖 <b> Some Statistics </b></summary> 
-  
-  <img src="https://github-readme-stats.vercel.app/api?username=Seoha-Yoon&show_icons=true&theme=swift"/>
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Seoha-Yoon&layout=compact"(https://github.com/Seoha-Yoon/github-readme-stats)/>
-  <img src = "http://mazassumnida.wtf/api/v2/generate_badge?boj=myrose127"(https://solved.ac/myrose127)/>
-</details>
 
 
 <div align ="center"> 
