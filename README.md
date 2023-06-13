@@ -1,9 +1,5 @@
 # It's me, I'm seoha <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> 
 
-## Resume
-Korean - [이력서](https://buttery-adapter-bbd.notion.site/c615a14a9e304e11abdd5ada09ee80ff)  
-English - [Resume](https://rift-cartwheel-e11.notion.site/5db8e67e634e4b8ab2c2b414cc2b588e), [CV](https://drive.google.com/file/d/12N-OG8AXBZlGl0E7nhp8d7EBh-8E3k_0/view?usp=sharing?raw=True)
-
 ## Tech Stack  
 <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>
